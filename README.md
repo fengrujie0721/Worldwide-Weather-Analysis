@@ -38,3 +38,9 @@ Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
 
 
+![image](https://user-images.githubusercontent.com/79819331/120254687-6148be80-c258-11eb-9c21-2f8a745f2a5c.png)
+
+Northern Hemisphere Temperature (F) vs. Latitude
+
+
+
