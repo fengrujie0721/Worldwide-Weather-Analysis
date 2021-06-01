@@ -16,7 +16,7 @@ First retrieve over 500 cities.
 
 Then get all the information of these cities: latitude, longitude, humidity, cloudiness, temperature, wind speed.
 
-![image](https://user-images.githubusercontent.com/79819331/120253988-c996a080-c256-11eb-941d-dc5b4a617c30.png)
+![image](https://user-images.githubusercontent.com/79819331/120254332-986aa000-c257-11eb-9c3d-592e3c2a1b8d.png)
 
 Temperature (F) vs. Latitude
 
