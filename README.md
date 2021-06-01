@@ -57,5 +57,9 @@ Southern Hemisphere Temperature (F) vs. Latitude
 
 
 
+![image](https://user-images.githubusercontent.com/79819331/120255424-e7b1d000-c259-11eb-844b-539e97608cba.png)
+
+
+
 
 
