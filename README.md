@@ -75,6 +75,12 @@ Southern Hemisphere Temperature (F) vs. Latitude
 Humidity Heatmap: use humidity as weight to mark different cities' humidity.
 
 
+![image](https://user-images.githubusercontent.com/79819331/120257056-796f0c80-c25d-11eb-8287-e9560d474015.png)
+
+
+Combine Hotel map and Humidity map to find hotel with comfortable humidity. 
+
+
 
 
 
