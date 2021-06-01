@@ -36,7 +36,7 @@ Temperature (F) vs. Latitude
 Humidity (%) vs. Latitude
 
 
-![image](https://user-images.githubusercontent.com/79819331/120254225-593c4f00-c257-11eb-85b5-a59173fdafcd.png)
+![image](https://user-images.githubusercontent.com/79819331/120257236-d5399580-c25d-11eb-92ca-307b6789f186.png)
 
 
 Cloudiness (%) vs. Latitude
