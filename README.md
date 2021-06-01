@@ -30,7 +30,7 @@ Then get all the information of these cities: latitude, longitude, humidity, clo
 Temperature (F) vs. Latitude
 
 
-![image](https://user-images.githubusercontent.com/79819331/120254135-22663900-c257-11eb-9c87-8a54f7d04af1.png)
+![image](https://user-images.githubusercontent.com/79819331/120255803-d0271700-c25a-11eb-82a6-504aea66e8aa.png)
 
 
 Humidity (%) vs. Latitude
@@ -42,13 +42,16 @@ Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
 
 
-![image](https://user-images.githubusercontent.com/79819331/120254488-fd25fa80-c257-11eb-9992-2498d6965351.png)
+![image](https://user-images.githubusercontent.com/79819331/120255907-019fe280-c25b-11eb-8904-f3db65700b24.png)
+
 
 
 Wind Speed (mph) vs. Latitude
 
 
+
 ![image](https://user-images.githubusercontent.com/79819331/120254926-e9c75f00-c258-11eb-92ab-50836af9930f.png)
+
 
 
 
