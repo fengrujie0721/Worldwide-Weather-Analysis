@@ -16,7 +16,7 @@ First retrieve over 500 cities.
 
 Then get all the information of these cities: latitude, longitude, humidity, cloudiness, temperature, wind speed.
 
-      ![image](https://user-images.githubusercontent.com/79819331/120254896-d6b48f00-c258-11eb-8d2f-1fd51eac2fea.png)
+   ![image](https://user-images.githubusercontent.com/79819331/120254896-d6b48f00-c258-11eb-8d2f-1fd51eac2fea.png)
 
 Temperature (F) vs. Latitude
 
@@ -57,7 +57,9 @@ Southern Hemisphere Temperature (F) vs. Latitude
 
 
 
-![image](https://user-images.githubusercontent.com/79819331/120255424-e7b1d000-c259-11eb-844b-539e97608cba.png)
+![image](https://user-images.githubusercontent.com/79819331/120255561-3d867800-c25a-11eb-9cb1-152bb482b3cd.png)
+
+Humidity Heatmap: use humidity as weight to mark different cities' humidity.
 
 
 
