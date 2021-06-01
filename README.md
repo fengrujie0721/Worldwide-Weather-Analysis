@@ -33,7 +33,7 @@ Cloudiness (%) vs. Latitude
 
 
 
-![image](https://user-images.githubusercontent.com/79819331/120254422-cea81f80-c257-11eb-8950-24705b1dd6d3.png)
+![image](https://user-images.githubusercontent.com/79819331/120254488-fd25fa80-c257-11eb-9992-2498d6965351.png)
 
 Wind Speed (mph) vs. Latitude
 
