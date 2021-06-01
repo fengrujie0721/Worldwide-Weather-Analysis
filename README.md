@@ -31,3 +31,10 @@ Humidity (%) vs. Latitude
 
 Cloudiness (%) vs. Latitude
 
+
+
+![image](https://user-images.githubusercontent.com/79819331/120254422-cea81f80-c257-11eb-8950-24705b1dd6d3.png)
+
+Wind Speed (mph) vs. Latitude
+
+
